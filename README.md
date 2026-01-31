@@ -37,10 +37,10 @@
 
 ## 🚀 Projetos em destaque
 <p align="left">
-  <a href="https://github.com/Marcos-sv/RpgRougueLike-trabFinal.git">
+  <a href="https://github.com/marcos-sv/RpgRougueLike-trabFinal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=RpgRougueLike-trabFinal" />
   </a>
-  <a href="https://github.com/Trabalho-de-LP1/CodigoHorarios.git">
+  <a href="https://github.com/marcos-sv/Trabalho-de-LP1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=Trabalho-de-LP1" />
   </a>
 </p>
