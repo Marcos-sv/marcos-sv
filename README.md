@@ -1,7 +1,7 @@
 <!-- HEADER GIF -->
 <p align="center">
   <!-- COLOQUE SEU GIF AQUI -->
-  <img src="https://media.giphy.com/media/your-gif-link/giphy.gif" width="100%" alt="Header GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJxaTJ5ZWF6djExeGlyNHJ0cDgzOWpxM3oxaTZqZDhiaWVzNmtiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" alt="Header GIF"/>
 </p>
 
 <h1 align="center">Marcos Vasconcelos 👋</h1>
@@ -37,11 +37,11 @@
 
 ## 🚀 Projetos em destaque
 <p align="left">
-  <a href="https://github.com/marcos-sv/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=REPO_1" />
+  <a href="https://github.com/Marcos-sv/RpgRougueLike-trabFinal.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=RpgRougueLike-trabFinal" />
   </a>
-  <a href="https://github.com/marcos-sv/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=REPO_2" />
+  <a href="https://github.com/Trabalho-de-LP1/CodigoHorarios.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=Trabalho-de-LP1" />
   </a>
 </p>
 
