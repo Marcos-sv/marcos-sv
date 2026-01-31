@@ -49,7 +49,7 @@
 
 ## 🐍 Contributions Snake
 <p align="center">
-  <img src="https://github.com/marcos-sv/marcos-sv/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="[https://github.com/marcos-sv/marcos-sv/blob/output/github-contribution-grid-snake.svg" alt="snake animation](https://github.com/marcos-sv/marcos-sv/blob/output/github-contribution-grid-snake-dark.svg)"/>
 </p>
 
 ---
