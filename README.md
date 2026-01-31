@@ -36,14 +36,13 @@
 ---
 
 ## 🚀 Projetos em destaque
-<p align="left">
-  <a href="https://github.com/marcos-sv/RpgRougueLike-trabFinal">
-    <img src="https://stats.vercel.app/api/pin/?username=marcos-sv&repo=RpgRougueLike-trabFinal&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/marcos-sv/Trabalho-de-LP1">
-    <img src="https://stats.vercel.app/api/pin/?username=marcos-sv&repo=Trabalho-de-LP1&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+🔹 **RPG RogueLike (Trabalho Final)**  
+🎮 Jogo estilo roguelike desenvolvido como projeto final.  
+🔗 https://github.com/marcos-sv/RpgRougueLike-trabFinal  
+<br>
+🔹 **Sistema de Horários (LP1)**  
+📅 Sistema para organização de horários acadêmicos.  
+🔗 https://github.com/marcos-sv/Trabalho-de-LP1
 
 ---
 
