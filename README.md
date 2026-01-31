@@ -38,10 +38,10 @@
 ## 🚀 Projetos em destaque
 <p align="left">
   <a href="https://github.com/marcos-sv/RpgRougueLike-trabFinal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=RpgRougueLike-trabFinal&theme=github_dark&hide_border=true" />
+    <img src="https://stats.vercel.app/api/pin/?username=marcos-sv&repo=RpgRougueLike-trabFinal&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/marcos-sv/Trabalho-de-LP1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-sv&repo=Trabalho-de-LP1&theme=github_dark&hide_border=true" />
+    <img src="https://stats.vercel.app/api/pin/?username=marcos-sv&repo=Trabalho-de-LP1&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
