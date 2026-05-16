@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 - 🎓 Atualmente: **Estudante de Computação**
-- 🎯 Foco: **Vibe Code**
+- 🎯 Foco: **Sistemas integrados com IA**
 - 🧠 Estudando: **Flutter, Java, C, Godot**
 
 ---
@@ -30,8 +30,8 @@
 - 🎯 Flutter  
 - 🎮 Godot  
 - 🎨 Figma  
-- 🔗 n8n  
-- 🐧 Linux  
+- 🔗 n8n
+  
 
 ---
 
